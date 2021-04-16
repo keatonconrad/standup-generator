@@ -6,6 +6,8 @@ This task is inherently difficult, as computers are notoriously bad at understan
 ## Results
 
 Loss: 2.85
+
 Perplexity: 17.29
+
 
 Note: Some aspects of the data collection, saving, and loading were adapted from https://gist.github.com/nwams/da9290c4a21c1fddfc5cba9f82f8ba5a
